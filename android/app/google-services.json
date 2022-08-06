@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33918498905",
+    "project_id": "merohealth-fcb29",
+    "storage_bucket": "merohealth-fcb29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33918498905:android:4e1fac38a6b16946c85948",
+        "android_client_info": {
+          "package_name": "com.example.merohealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33918498905-cq403qlhu7b1oe14517rdnknkvq0inev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9_jMqNiILswWNUz2hAgEqzPRbE0JKzc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33918498905-cq403qlhu7b1oe14517rdnknkvq0inev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
