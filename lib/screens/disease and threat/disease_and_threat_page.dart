@@ -88,8 +88,7 @@ class DiseaseAndThreatScreen extends StatelessWidget {
                             context,
                             MaterialPageRoute(
                                 builder: ((context) => const Disease(
-                                      url:
-                                          "assets/images/covid.jpg",
+                                      url: "assets/images/covid.jpg",
                                       diseaseName: "Covid",
                                       precautions1: "Wear masks",
                                       precautions2: "Get vaccinated",
@@ -104,8 +103,7 @@ class DiseaseAndThreatScreen extends StatelessWidget {
                             context,
                             MaterialPageRoute(
                                 builder: ((context) => const Disease(
-                                      url:
-                                          "assets/images/malaria.jpg",
+                                      url: "assets/images/malaria.jpg",
                                       diseaseName: "Malaria",
                                       precautions1:
                                           "Apply insect repellent to exposed skin.",
@@ -121,8 +119,7 @@ class DiseaseAndThreatScreen extends StatelessWidget {
                             context,
                             MaterialPageRoute(
                                 builder: ((context) => const Disease(
-                                      url:
-                                          "assets/images/typhoid.jpg",
+                                      url: "assets/images/typhoid.jpg",
                                       diseaseName: "Typhoid",
                                       precautions1:
                                           "Avoid drinking untreated water.",
@@ -138,8 +135,7 @@ class DiseaseAndThreatScreen extends StatelessWidget {
                             context,
                             MaterialPageRoute(
                                 builder: ((context) => Disease(
-                                      url:
-                                          "assets/images/rabies.jpg",
+                                      url: "assets/images/rabies.jpg",
                                       diseaseName: "Rabies",
                                       precautions1: "Vaccinate your pets.",
                                       precautions2:
@@ -155,8 +151,7 @@ class DiseaseAndThreatScreen extends StatelessWidget {
                             context,
                             MaterialPageRoute(
                                 builder: ((context) => Disease(
-                                      url:
-                                          "https://media.glide.mailplus.co.uk/prod/images/gm_preview/3bd05a74d8b8-untitled-design.jpg?fbclid=IwAR1-YCr8_TYxrPDoYU8vZ55Uf9hcPjIihIY7Wfw1O1CgX5lLvrWEyOHEdHM",
+                                      url: "assets/images/highbp.jpg",
                                       diseaseName: "High blood pressure",
                                       precautions1: "Be Physically Active",
                                       precautions2: "Do Not Smoke",
@@ -171,8 +166,7 @@ class DiseaseAndThreatScreen extends StatelessWidget {
                             context,
                             MaterialPageRoute(
                                 builder: ((context) => Disease(
-                                      url:
-                                          "https://cdn.britannica.com/04/100104-050-9C3C04EB/Emphysema-walls-alveoli-oxygen-intake-loss-lungs.jpg?fbclid=IwAR2ZH38Khq3XK9DXbi8PjkvaUdXhoD1RYoTpj9dBC8pTE35eYC8w88Mt2ys",
+                                      url: "assets/images/copd.jpg",
                                       diseaseName: "Copd",
                                       precautions1: "Do Not Smoke",
                                       precautions2: "Be Physically Active",
@@ -186,8 +180,7 @@ class DiseaseAndThreatScreen extends StatelessWidget {
                             context,
                             MaterialPageRoute(
                                 builder: ((context) => Disease(
-                                      url:
-                                          "https://www.practostatic.com/health-wiki/images/cb41de1757d654fb5e945b0840abf455.jpg?fbclid=IwAR3yWF4YIIV_WQiw0sS3vYRxwLLSrkeY3bB-WKG5KWKShvlHvRxqIHyNioA",
+                                      url: "assets/images/tb.jpg",
                                       diseaseName: "T.b",
                                       precautions1: "Do Not Smoke",
                                       precautions2:
@@ -202,8 +195,7 @@ class DiseaseAndThreatScreen extends StatelessWidget {
                             context,
                             MaterialPageRoute(
                                 builder: ((context) => Disease(
-                                      url:
-                                          "https://cdn.mos.cms.futurecdn.net/2Z2yMTSAJ9dzy7K53Fj78M.jpg?fbclid=IwAR1Nx-G6_FDMPNRPycNc7aaG_aoOs0KDHbyPTWMXjHCtDE_Zd2r6kyGEoJ4",
+                                      url: "assets/images/tonsils.jpg",
                                       diseaseName: "Tonsils",
                                       precautions1:
                                           "Drinking plenty of warm liquids.",
@@ -221,8 +213,7 @@ class DiseaseAndThreatScreen extends StatelessWidget {
                             context,
                             MaterialPageRoute(
                                 builder: ((context) => Disease(
-                                      url:
-                                          "https://png.pngtree.com/png-vector/20190216/ourlarge/pngtree-vector-illustration-of-little-girl-with-a-rash-on-skin-smallpox-png-image_321378.jpg?fbclid=IwAR2ziSKzasDjoEQETi5sNpJaOBhqMo_0Z55vyNfXIuxeoeUTuejnr7hs2rY",
+                                      url: "assets/images/scabies.jpg",
                                       diseaseName: "Scabies",
                                       precautions1:
                                           "Avoiding direct skin-to-skin contact.",
@@ -239,8 +230,7 @@ class DiseaseAndThreatScreen extends StatelessWidget {
                             context,
                             MaterialPageRoute(
                                 builder: ((context) => Disease(
-                                      url:
-                                          "https://assets.lybrate.com/q_auto:eco,f_auto,w_450/eagle/uploads/6e67eaf22dedfbabc6fa671cd0584385/e1f49c.jpg?fbclid=IwAR2ZH38Khq3XK9DXbi8PjkvaUdXhoD1RYoTpj9dBC8pTE35eYC8w88Mt2ys",
+                                      url: "assets/images/osteoporosis.jpg",
                                       diseaseName: "Ostroporosis",
                                       precautions1: "Eat calcium-rich foods.",
                                       precautions2: "Absorb enough vitamin D.",

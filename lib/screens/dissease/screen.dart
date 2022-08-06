@@ -47,7 +47,7 @@ class Disease extends StatelessWidget {
                 decoration: BoxDecoration(
                     color: MyColors.white,
                     borderRadius: BorderRadius.circular(5)),
-                child:Image.network(url,fit: BoxFit.fill,
+                child:Image.asset(url,fit: BoxFit.fill,
                 height: 125.h,
                 width: 395.w,
                 ),

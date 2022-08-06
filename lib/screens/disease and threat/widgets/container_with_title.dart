@@ -27,7 +27,7 @@ class ContainerWithTitle extends StatelessWidget {
           Container(
               height: 200.h,
               width: 395.w,
-              child: Image.network(
+              child: Image.asset(
                 url,
                 fit: BoxFit.fill,
                 scale: 0.2,
