@@ -32,6 +32,7 @@ class MyApp extends StatelessWidget {
           title: "Project",
           onGenerateRoute: ProjectRoute.generateRoute ,
           initialRoute: homeRoute,
+          
           // home:GetUserName("ok"),
           // home: Disease(),
         );

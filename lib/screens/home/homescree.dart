@@ -22,7 +22,12 @@ class HomeScreen extends StatelessWidget {
           const HomePlaceWithTemperature(),
           const SizedBox(height: 20,),
           const MyTitle(text: "Threat & Disease"),
-          const HomeDiseases()
+          const HomeDiseases(),
+          Container(
+            height: 20,
+            width: 59,
+            decoration: BoxDecoration(color:Colors.amber),
+          ),
         ],
       ),
       drawer:const MyDrawer(),
